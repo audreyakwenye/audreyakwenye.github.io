@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: educator, entrepreneur, data scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Audrey Taylor-Akwenye. I was born and raised in Jackson Ms where I attended MIllsaps College and obtained a BA in History Education with a minor in French. I"ve taught English in three continents and started 4 companies. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+From 2007 to 2017, I lived in Windhoek Namibia in Southern Africa. At the begining of 2018, I moved to Austin Texas with my husband and two children, ages 10 and 12. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
